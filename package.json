@@ -1,0 +1,16 @@
+{
+  "name": "wordmoji",
+  "version": "1.0.0",
+  "description": "Turn your sentences into words crafted from emojis!",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "emoji",
+    "fun",
+    "cli"
+  ],
+  "author": "Beau August"
+}
