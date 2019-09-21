@@ -5,15 +5,15 @@
 
 ## Getting Started
 
-### Installing globally
 `$ npm install -g wordmoji`
 
 ## Usage
 
-`wordmoji "phrase" <arguments>`
+`$ wordmoji "phrase" <arguments>`
 
 For example:
-`wordmoji "testing wordmoji" --emoji=󠁧󠁢󠁥󠁮󠁧👍🏼 --background=⬛️ --copy`
+
+`$wordmoji "testing wordmoji" --emoji=󠁧󠁢󠁥󠁮󠁧👍🏼 --background=⬛️ --copy`
 
 ## Available arguments
 
